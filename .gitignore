@@ -55,3 +55,8 @@ include/darknet/
 uselib
 uselib_track
 darknet
+
+test.mp4
+voc/.ipynb_checkpoints/
+voc/VOCdevkit/
+voc/records/
